@@ -1,6 +1,6 @@
 ### Hello there!
 
-Hi, welcome to my profile!
+Welcome to my profile!
 
 My name is Joaquim Almeida, I'am a **programmer**
 
