@@ -4,10 +4,9 @@ Welcome to my profile!
 
 My name is Joaquim Almeida, I'am a **programmer**
 
-I have more than **3 years** of experience with programming, working mostly with back-end.
+I have more than **4 years** of experience with programming, working mostly with back-end.
 
-Now I'm looking forward for new horizons such the **Data Science** field which I'm currently studying
-at coursera plattaform.
+I'm currently studying Mathematics and Statistics at UFPR
 
 <div align="center"><br>
    <a href="https://github.com/joaq-almeida">
